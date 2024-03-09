@@ -41,3 +41,10 @@
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h2>💻 Things I code with</h2>
+<h3>🖥️Languages</h3>
+<P></P>
+<h3>📚Frameworks & Libraries</h3>
+<P></P>
+<h3>☁️Cloud hosting & Database</h3>
+<P></P>
+<h3>🔧Softwares & Tools</h3>
