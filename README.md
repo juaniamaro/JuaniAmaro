@@ -42,7 +42,9 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h2>💻 Things I code with</h2>
 <h3>🖥️Languages</h3>
-<P></P>
+<P><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/-Java-red?logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/-Java%20Script-%23F7DF1E?logo=javascript&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/-PHP-%23777BB4?logo=php&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/-CSS-%231572B6?logo=css3&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/-HTML%2FHTML5-%23E34F26?logo=html5&logoColor=white">
+</P>
 <h3>📚Frameworks & Libraries</h3>
 <P><img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-%2321759B?logo=Wordpress&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Prestashop-%23DF0067?logo=prestashop&logoColor=white">
