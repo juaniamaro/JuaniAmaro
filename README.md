@@ -46,7 +46,9 @@
 <h3>📚Frameworks & Libraries</h3>
 <P></P>
 <h3>☁️Cloud hosting & Database</h3>
-<P></P>
+<P><img alt="Static Badge" src="https://img.shields.io/badge/Github%20Pages-%23222222?logo=githubpages&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=white">
+
+</P>
 <h3>🔧Softwares & Tools</h3>
 <P><img alt="Static Badge" src="https://img.shields.io/badge/Anydesk-%23EF443B?logo=anydesk&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Jenkins-%23D24939?logo=Jenkins&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Xampp-%23FB7A24?logo=Xampp&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Apache-%23D22128?logo=Apache&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Androidstudio-%233DDC84?logo=androidstudio&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255?logo=eclipseide&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Virtual%20Box-%23183A61?logo=VirtualBox&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Core-%23007ACC?logo=visualstudiocode&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Sublimetext-%23FF9800?logo=sublimetext&logoColor=white">
