@@ -44,7 +44,11 @@
 <h3>🖥️Languages</h3>
 <P></P>
 <h3>📚Frameworks & Libraries</h3>
-<P></P>
+<P><img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-%2321759B?logo=Wordpress&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Prestashop-%23DF0067?logo=prestashop&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?logo=bootstrap&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Arduino-%2300878F?logo=Arduino&logoColor=white">
+</P>
 <h3>☁️Cloud hosting & Database</h3>
 <P><img alt="Static Badge" src="https://img.shields.io/badge/Github%20Pages-%23222222?logo=githubpages&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=white">
 
