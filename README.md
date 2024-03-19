@@ -13,9 +13,6 @@
      <a href="https://linkedin.com/in/juani-amaro-gonzález-aa7005162" target="blank">
   <img src="https://github.com/juaniamaro/JuaniAmaro/assets/48890906/740d40e5-6cec-439b-8abb-019fc171d446" alt="icon" width="50" height="50"/>
  </a
- <a href="https://api.whatsapp.com/send?phone=3697285729" target="_blank">
-  <img src="https://github.com/juaniamaro/JuaniAmaro/assets/48890906/423d5b0b-1531-4bde-b7db-02f841e80032" alt="icon" width="50" height="50"/>
- </a>
  <a href="mailto:jag220599@gmail.com" target="_blank">
   <img src="https://github.com/juaniamaro/JuaniAmaro/assets/48890906/38cff7a6-4ef5-40f3-aa23-8cc2a94f9850" alt="icon" width="50" height="50" />
  </a>
