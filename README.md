@@ -13,7 +13,7 @@
      <a href="https://linkedin.com/in/juani-amaro-gonzález-aa7005162" target="blank">
   <img src="https://github.com/juaniamaro/JuaniAmaro/assets/48890906/740d40e5-6cec-439b-8abb-019fc171d446" alt="icon" width="50" height="50"/>
  </a
- <a href="https://api.whatsapp.com/send?phone=3697285729&text=Hi!%F0%9F%AB%B0%20I%20have%20seen%20your%20profile%20on%20linkedin%20and%20I%20am%20interested%20in%20talking%20to%20you.
+ <a href="https://api.whatsapp.com/send?phone=3697285729&text=Hi!%F0%9F%AB%B0%20I%20have%20seen%20your%20profile%20on%20linkedin%20and%20I%20am%20interested%20in%20talking%20to%20you
 " target="_blank">
   <img src="https://github.com/juaniamaro/JuaniAmaro/assets/48890906/423d5b0b-1531-4bde-b7db-02f841e80032" alt="icon" width="50" height="50"/>
  </a>
